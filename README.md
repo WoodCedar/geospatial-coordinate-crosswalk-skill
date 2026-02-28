@@ -11,7 +11,7 @@ A reusable GIS skill for projected/geographic coordinate conversion with strict 
 After pushing this repo to GitHub:
 
 ```bash
-/plugin marketplace add https://github.com/<your-username>/geospatial-coordinate-crosswalk-skill
+/plugin marketplace add https://github.com/WoodCedar/geospatial-coordinate-crosswalk-skill
 /plugin
 ```
 
