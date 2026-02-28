@@ -1,0 +1,20 @@
+{
+  "name": "geospatial-coordinate-crosswalk-skill",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "id": "geospatial-coordinate-crosswalk",
+      "name": "Geospatial Coordinate Crosswalk",
+      "description": "Projected/geographic CRS conversion with round-trip verification for GIS and engineering boundary data.",
+      "path": "skills/geospatial-coordinate-crosswalk/SKILL.md",
+      "tags": [
+        "gis",
+        "geospatial",
+        "crs",
+        "epsg",
+        "coordinate",
+        "kml"
+      ]
+    }
+  ]
+}
